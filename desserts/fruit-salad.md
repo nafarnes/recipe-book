@@ -6,6 +6,7 @@
 - Banana
 - Grapes
 - Melon
+- Strawberries
 
 
 ## Instructions
