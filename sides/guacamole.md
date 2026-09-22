@@ -18,5 +18,6 @@
 - chop chili
 - squeeze lime
 - add salt
+- add cilantro
 - and mix well
 - enjoy!
